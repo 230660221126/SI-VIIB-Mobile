@@ -19,7 +19,7 @@ Aplikasi **RadiAct (Radio Activity)** dirancang untuk digunakan oleh seluruh ang
 ## 3. Diagram Arsitektur
 Berikut adalah Rancangan Diagram Arsitektur Aplikasi RadiAct (Radio Activity):
 
-![Diagram Arsitektur](/diagram.png)
+![Diagram Arsitektur](/tugas1_Deyna/diagram.png)
 
 ```mermaid
 graph LR
@@ -58,7 +58,7 @@ Pengelolaan alur kerja dan materi operasional menjadikan fitur **file** sebagai 
 ## 7. Struktur Folder
 
 ```text
-230660221032/tugas1_Deyna/
+tugas1_Deyna/
 ├── README.md
 ├── diagram.png
 ├── diagram.mmd
