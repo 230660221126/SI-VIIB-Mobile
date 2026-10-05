@@ -33,7 +33,7 @@ Perintah untuk menjalankannya:
 `dart run hitung_nilai.dart`
 
 ### Tampilan Hasil:
-![Hasil](/tugas2_Deyna/hasil.png)
+![Hasil](hasil.png)
 
 ## 5. Refleksi
 Saat pengerjaan, sintaks yang paling sering saya salah gunakan adalah penulisan titik koma (;) di akhir baris dan alur perulangan for-in. Hal ini terjadi karena saya masih kurang teliti serta masih perlu memahami logika percabangan atau perulangan. Tugas ini sangat bermanfaat dalam memberikan alur pembelajaran yang lebih terarah dalam menyusun fungsi dan menampilkan data dengan tepat.
