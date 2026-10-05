@@ -9,7 +9,7 @@
 | :---: | :--- | :---: | :---: |
 | 1 | Tugas | 30 | 25 |
 | 2 | Praktikum | 25 | 18 |
-| 3 | Kehadiran | 10 | 8 |
+| 3 | Kehadiran Kelas | 10 | 8 |
 | 4 | Ujian Tengah Semester (UTS) | 15 | 13 |
 | 5 | Ujian Akhir Semester (UAS) | 20 | 16 |
 | |**Total Keseluruhan** | **100** | **80** |
